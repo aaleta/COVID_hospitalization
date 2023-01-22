@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/401280852.svg)](https://zenodo.org/badge/latestdoi/401280852)
+
+
 # Unraveling the COVID-19 hospitalization dynamics in Spain using Bayesian inference
 
 This repository contains the implementation of [Unraveling the COVID-19 hospitalization dynamics in Spain using Bayesian inference](https://doi.org/10.1186/s12874-023-01842-7).
